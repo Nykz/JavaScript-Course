@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.cart-items {
+    list-style-type: none;
+    padding: 0;
+}
+
+.cart-items li {
+    margin: 10px 0;
+}
+
+.cart-items button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
+
+.cart-items button:hover {
+    background-color: darkred;
+}
+.item-list {
+    margin-bottom: 20px;
+}

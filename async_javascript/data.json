@@ -1,0 +1,10 @@
+{
+  "name": "Nikhil",
+  "age": 30,
+  "isDeveloper": true,
+  "skills": ["JavaScript", "Ionic", "Angular"],
+  "address": {
+    "city": "Delhi",
+    "country": "India"
+  }
+}
